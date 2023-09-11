@@ -27,7 +27,7 @@
     login_host: localhost
     name: userdb
     state: import
-    target: /root/ex_ans_mio_2/roles/mysqldb/files/dump.sql 
+    target: /root/lab_ansible_modulo5_green/roles/mysqldb/files/dump.sql 
     collation: utf8_general_ci
 
 
